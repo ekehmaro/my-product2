@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+.card{
+    background-color: antiquewhite;
+    border: solid black 1px;
+    border-radius: 20px;
+    max-width:300px;
+    padding: 20px;
+    margin-left:auto ;
+    margin-right: auto;
+    margin-top: 20px;
+}

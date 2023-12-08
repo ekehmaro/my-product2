@@ -1,0 +1,16 @@
+.navbar{
+    color:white;
+    padding:20px;
+    border: 1px solid black;
+    
+}
+
+.navItem{
+    margin: 5px;
+    text-transform: capitalize;
+
+}
+.navContainer{
+    display: flex;
+    flex-direction: row;
+}
