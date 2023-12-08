@@ -22,25 +22,22 @@ This project is a REACT application that allows users to browse about products a
 Node.js must be installed
 NPM must be enabled
 
-# JSON SERVER
-
-To install Json server globally run [npm install -g json-server] in the terminal
-
-To start the JSON server run [json-server --watch db.json] on the cd prompt
-
-
-# 'npm start'
-
-To run this app in the development mode.\
-open [http:///localhost:3000] to view it in the server
-
 # install dependencies 
 
 npm install 
 
+# JSON SERVER
+
+To install Json server globally run [npm install -g json-server] in the terminal
+
+To start the JSON server run [json-server --watch products.json] on the cd prompt
+
+
 # Usage 
 npm start  --for react app
 json-server products.json --port 4000
+To run this app in the development mode.
+open [http:///localhost:3000] to view it in the broswer
 
 # Development 
 
