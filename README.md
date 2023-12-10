@@ -1,17 +1,4 @@
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-in:sent 
-1 of 44
-Please check for errors
-
-ekeh precious maro <ekehpreciousmaro43@gmail.com>
-12:38 AM (8 hours ago)
-to ugegetop@gmail.com
-
-This is the README, JUST COPY AND PASTE IT 
 
 # Getting started with my-products
 
